@@ -1,0 +1,4 @@
+com\pollito\DAO\model\ModelConection.class
+com\mycompany\pruebadocker\PruebaDocker.class
+com\pollito\DAO\entity\Oficio.class
+com\pollito\DAO\model\ConsultaOficio.class
